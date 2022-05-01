@@ -1,15 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+//you will get a .git file in your folder
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+//staging area is a buffer, so you could decide what file you want to commit at once. You are allowed with more room for mistakes if you add the wrong file, you can reset it here in the staging area.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+//By comparing the working area w the staging area, we can know what changes had been made, and when we commit them to the repository we can make sure it is one commit per logical change.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+//When you want to experiment w a new feature or maybe the same feature in another language, but you'd like to keep the original branch intact.
+Branches will be saved in another space so the original files are the same as before. 
 
 How do the diagrams help you visualize the branch structure?
+//I mean diagrams are invented to visualize branch structure. It will clearly show the moment when branch splits. and show how the commit of a certiain timing wouldn't affect the others. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
