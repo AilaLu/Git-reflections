@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    //cause all the rest is the same, the probelm can only be detected from the difference of the 2 files
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    //most of the time programs are if not 1K or 10K of code. so easy access to history can save you a lot of time looking into the bug
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    //
+    manually
+    pros: you get to know when you want the changes to be saved
+    cons: easily forgotton cause we're humans 
+
+    automatically
+    pros: the cons of manually!
+    cons: the pros of manually!
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    //one example would be like web design, when you develop html and css, you need to save multiple files in one commit to make sure they are aligned. 
+    Google docs usally are individual files, so it's more suitable to saved seperately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    //with git log, all the changes are with an ID, author and time.
+    //with git diff, you get to see the changes details between commits, each set of change is in red/green
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    //because I can trace back to the commits from earlier, and know from which commit on the bug is introduced
+    You're able to make bald and creative changes because nothing is holding you back:) 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    //I would like to work on my sideproject and make different features and potentitally in different languages.
