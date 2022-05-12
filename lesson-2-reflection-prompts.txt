@@ -12,10 +12,12 @@ What are some situations when branches would be helpful in keeping your history 
 Branches will be saved in another space so the original files are the same as before. 
 
 How do the diagrams help you visualize the branch structure?
-//I mean diagrams are invented to visualize branch structure. It will clearly show the moment when branch splits. and show how the commit of a certiain timing wouldn't affect the others. 
+//I mean diagrams are invented to visualize branch structure. It will clearly show the moment when branch splits. and show how the commit of a certain timing wouldn't affect the others. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+//
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+//
